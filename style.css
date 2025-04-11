@@ -28,7 +28,6 @@ tr:nth-child(2) td:nth-child(4) {
 }
 tr:nth-child(2) td:nth-child(1) {
   text-align: left;
-  
 }
 select {
   padding: 4px;
@@ -38,7 +37,6 @@ select {
 input {
   padding: 5px;
   width: 150px;
-  
 }
 #result {
   color: blue;
@@ -46,6 +44,9 @@ input {
 p {
   padding-left: 10px;
 }
-table,tr,td,th{
-    width:605 ;
+table,
+tr,
+td,
+th {
+  width: 605;
 }
